@@ -5,5 +5,11 @@ import os
 
 if __name__ == '__main__':
     print(os.environ['VIRTUAL_ENV'])
-    os.system('pip install beautifulsoup4 PyTest')
-    os.system('pip freeze > requirements.txt')
+    try:
+        if not os.environ['VIRTUAL_ENV'].endswith('gernesto'):
+            raise Exception('Incorrect env')
+    except Exception as ex:
+        print(ex)
+    else:
+        os.system('pip install beautifulsoup4 PyTest')
+        os.system('pip freeze > requirements.txt')

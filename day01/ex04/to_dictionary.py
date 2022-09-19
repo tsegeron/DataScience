@@ -26,8 +26,7 @@ def var_to_dict():
     for val, key in list_of_tuples:
         _dict[key] = val if not _dict.get(key) else _dict.get(key) + f', {val}'
 
-    [print(f'{key} : {v}') for key, val in _dict.items() for v in val.split(', ')]
-
+    [print(f"'{key}' : '{v}'") for key, val in _dict.items() for v in val.split(', ')]
 
 
 if __name__ == '__main__':

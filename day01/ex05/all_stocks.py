@@ -38,7 +38,7 @@ def all_in(avs):
 
     funcs = ['ticker_symbols(COMPANIES, av[i].upper())',
              'stock_prices(COMPANIES, STOCKS, av[i].title())',
-             'not_found(av[i].capitalize())']
+             'not_found(av[i])']
 
     for i in range(len(av)):
         for func in funcs:

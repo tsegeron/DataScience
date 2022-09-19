@@ -15,7 +15,7 @@ def get_data(ticker: str, field: str) -> tuple:
     for line in lines:
         if line.find('span').text.lower() == field.lower():
             return tuple(val.text for val in line)
-    #     if field.lower() in line.find('span').text.lower():   # in case if we want to get all fields including 'field'
+    #     if field.lower() in line.find('span').text.lower():   # in case if we want to get all fields containing 'field'
     #         res.append(tuple(val.text for val in line))
     # if len(res) != 0:
     #     return tuple(res)

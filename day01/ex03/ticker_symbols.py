@@ -21,9 +21,10 @@ def ticker_symbols(av):
 
     for key, val in COMPANIES.items():
         if av[1].lower() == val.lower():
-            return val + ' ' + str(STOCKS.get(val.upper()))
-    return 'Unknown ticker'
+            print(val + ' ' + str(STOCKS.get(val.upper())))
+            return
+    print('Unknown ticker')
 
 
 if __name__ == '__main__':
-    print(ticker_symbols(sys.argv))
+    ticker_symbols(sys.argv)
