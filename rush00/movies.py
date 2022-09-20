@@ -13,11 +13,8 @@ class Movies:
         """
         self.path_to_the_file = path_to_the_file
         self.movies_list = []
-        try:
-            with open(path_to_the_file) as f:
-                self.movies_list = f.read().splitlines()[1:]
-        except FileNotFoundError as ex:
-            print(ex)
+        with open(path_to_the_file) as f:
+            self.movies_list = f.read().splitlines()[1:]
         self.movies_string = '\n'.join(self.movies_list)
 
     def get_title_by_id(self, movie_id):

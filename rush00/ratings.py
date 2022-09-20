@@ -1,6 +1,5 @@
 from datetime import datetime
 from movies import Movies
-from functools import reduce
 import re
 
 
@@ -23,17 +22,19 @@ class Ratings:
         self.ratings_string = '\n'.join(self.ratings_list)
 
         self.movies = Ratings.Movies('data/movies.csv', self.ratings_string)
+        self.users = Ratings.Users('data/movies.csv', self.ratings_string)
 
     class Movies(Movies):
         def __init__(self, path_to_file, ratings_string):
             super().__init__(path_to_file)
             self.ratings_string = ratings_string
+            self.movie_ids = re.findall(',([0-9]+),', self.ratings_string, re.MULTILINE)
 
         @staticmethod
-        def __get_median(vals):
+        def get_median(vals):
             if len(vals) % 2:
-                return round(vals[len(vals) // 2] * 100) / 100
-            return round((vals[len(vals) // 2] + vals[len(vals) // 2 - 1]) * 50) / 100
+                return vals[len(vals) // 2]
+            return (vals[len(vals) // 2] + vals[len(vals) // 2 - 1]) * .5
 
         def dist_by_year(self):
             """
@@ -57,8 +58,8 @@ class Ratings:
             It is a dict where the keys are movie titles and the values are numbers.
             Sort it by numbers descendingly.
             """
-            top_movies = re.findall(',([0-9]+),', self.ratings_string, re.MULTILINE)
-            return dict(sorted({self.get_title_by_id(int(key)): top_movies.count(key) for key in set(top_movies)}.items(), key=lambda x: -x[1])[:n])
+            return dict(sorted({self.get_title_by_id(int(key)): self.movie_ids.count(key)
+                                for key in set(self.movie_ids)}.items(), key=lambda x: -x[1])[:n])
 
         def top_by_ratings(self, n, metric='average'):
             """
@@ -67,16 +68,17 @@ class Ratings:
             Sort it by metric descendingly.
             The values should be rounded to 2 decimals.
             """
-            movies_id = set(re.findall(',([0-9]+),', self.ratings_string, re.MULTILINE))
             movies_id_rates = {
                 key: sorted(map(float, re.findall(f',{key},([0-5]\.[05]),', self.ratings_string, re.MULTILINE)))
-                for key in movies_id}
+                for key in self.movie_ids}
+            res = []
             if metric == 'average':
-                return dict(sorted({self.get_title_by_id(key): round(sum(val) * 100 / len(val)) / 100
-                                    for key, val in movies_id_rates.items()}.items(), key=lambda x: -x[1])[:n])
+                res = sorted({key: sum(val) / len(val)
+                              for key, val in movies_id_rates.items()}.items(), key=lambda x: x[1], reverse=True)[:n]
             elif metric == 'median':
-                return dict(sorted({self.get_title_by_id(key): self.__get_median(val)
-                                    for key, val in movies_id_rates.items()}.items(), key=lambda x: -x[1])[:n])
+                res = sorted({key: self.get_median(val)
+                              for key, val in movies_id_rates.items()}.items(), key=lambda x: x[1], reverse=True)[:n]
+            return {self.get_title_by_id(key): round(val * 100) / 100 for key, val in res}
 
         def top_controversial(self, n):
             """
@@ -85,12 +87,13 @@ class Ratings:
             Sort it by variance descendingly.
             The values should be rounded to 2 decimals.
             """
-            movies_id = set(re.findall(',([0-9]+),', self.ratings_string, re.MULTILINE))
             movies_id_rates = {}
-            for key in movies_id:
+            for key in self.movie_ids:
                 vals = list(map(float, re.findall(f',{key},([0-5]\.[05]),', self.ratings_string, re.MULTILINE)))
-                movies_id_rates[self.get_title_by_id(key)] = sum(map(lambda x: (x - sum(vals)/len(vals))**2, vals)) / len(vals)
-            return dict(sorted(movies_id_rates.items(), key=lambda x: -x[1])[:n])
+                mean = sum(vals) / len(vals)
+                movies_id_rates[key] = sum(map(lambda x: (x - mean)**2, vals)) / len(vals)
+            res = sorted(movies_id_rates.items(), key=lambda x: x[1], reverse=True)[:n]
+            return {self.get_title_by_id(key): round(val * 100) / 100 for key, val in res}
 
     class Users(Movies):
         """
@@ -102,12 +105,42 @@ class Ratings:
         """
         def __init__(self, path_to_file, ratings_string):
             super().__init__(path_to_file, ratings_string)
+            self.all_rates = re.findall('^([0-9]+),', self.ratings_string, re.MULTILINE)
+            self.all_ids = set(self.all_rates)
 
-        def dist_by_ratings_number(self):
-            pass
+        def dist_by_ratings_number(self, n: int = 5):
+            """
+            Finds the distribution of users by the number of ratings made by them.
 
-        def dist_by_ratings_metric(self, metric='average'):
-            pass
+            :return: top-n items of Dict of user_id:number_of_ratings, descendingly sorted by number_of_ratings
+            """
+            return dict(sorted({int(key): self.all_rates.count(key)
+                                for key in set(self.all_ids)}.items(), key=lambda x: -x[1])[:n])
 
-        def top_n_by_variance(self, n):
-            pass
+        def dist_by_ratings_metric(self, n: int = 5, metric: str ='average'):
+            """
+            Finds the distribution of users by `average` or `median` ratings made by them.
+
+            :return: top-n items of Dict of user_id:metric_value, descendingly sorted by number_of_ratings
+            """
+            users_rates = {
+                int(key): sorted(map(float, re.findall(f'^{key},.+,([0-5]\.[05]),', self.ratings_string, re.MULTILINE)))
+                for key in self.all_ids}
+            if metric == 'average':
+                return dict(sorted({key: round(sum(val) * 100 / len(val)) / 100
+                                    for key, val in users_rates.items()}.items(), key=lambda x: -x[1])[:n])
+            elif metric == 'median':
+                return dict(sorted({key: self.get_median(val)
+                                    for key, val in users_rates.items()}.items(), key=lambda x: -x[1])[:n])
+
+        def top_n_by_variance(self, n: int = 5):
+            """
+            Finds top-n users with the biggest variance of their ratings.
+
+            :return: dict of top-n users with the biggest variance of their ratings
+            """
+            users_rates = {}
+            for key in self.all_ids:
+                vals = list(map(float, re.findall(f'^{key},.+,([0-5]\.[05]),', self.ratings_string, re.MULTILINE)))
+                users_rates[int(key)] = sum(map(lambda x: (x - sum(vals) / len(vals)) ** 2, vals)) / len(vals)
+            return dict(sorted(users_rates.items(), key=lambda x: -x[1])[:n])

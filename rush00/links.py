@@ -1,3 +1,8 @@
+import re
+import requests
+from bs4 import BeautifulSoup
+
+# k_sqohloz7 - imdb key
 class Links:
     """
     Analyzing data from links.csv
@@ -7,14 +12,30 @@ class Links:
         """
         Put here any fields that you think you will need.
         """
+        self.path_to_the_file = path_to_the_file
+        self.moviepage_url = 'https://www.imdb.com/title/tt{imdbid}'
+        self.raw_data = ''
+        with open(self.path_to_the_file) as f:
+            self.raw_data = f.read()
+        self.all_movieIds = re.findall(',([0-9]+),', self.raw_data, re.MULTILINE)   # throw exception if empty
 
-    def get_imdb(list_of_movies, list_of_fields):
+    @staticmethod
+    def get_imdb(list_of_movies: list[str], list_of_fields: list[str]) -> list[list]:
         """
-The method returns a list of lists [movieId, field1, field2, field3, ...] for the list of movies given as the argument (movieId).
+        The method returns a list of lists [movieId, field1, field2, field3, ...] for the list of movies given as the argument (movieId).
         For example, [movieId, Director, Budget, Cumulative Worldwide Gross, Runtime].
         The values should be parsed from the IMDB webpages of the movies.
-     Sort it by movieId descendingly.
+        Sort it by movieId descendingly.
         """
+        moviepage_url = 'https://www.imdb.com/title/tt{imdbid}'
+        imdb_info = []
+        for movie_id in list_of_movies:
+            movie_info = [movie_id]
+
+            movie_page = requests.get(moviepage_url.format(imdbid=movie_id))
+            soup = BeautifulSoup(movie_page.text, 'html.parser')
+            # soup.get()
+            imdb_info.append(movie_info)
         return imdb_info
 
     def top_directors(self, n):
