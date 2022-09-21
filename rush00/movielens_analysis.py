@@ -34,7 +34,12 @@ if __name__ == '__main__':
     # print(r.users.dist_by_ratings_metric(metric='median'))
     # print(r.users.top_n_by_variance())
 
-    li = Links('data/links.csv')
-    print(li.get_imdb(['0114709'], ['movieId', 'Director', 'Budget', 'Cumulative Worldwide Gross', 'Runtime']))
+    # li = Links('data/links.csv')
+    # print(li.get_imdb(['0114709'], ['movieId', 'Director', 'Budget', 'Cumulative Worldwide Gross', 'Runtime']))
+
+    # movie = '1,Toy Story (1995)\n'
+    # print(re.findall('^([0-9]*),(.*),([a-zA-Z-|]*)$', movie))
+
+    print('791,0113610,'.split(','))
 
     pass
