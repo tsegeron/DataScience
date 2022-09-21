@@ -14,7 +14,7 @@ def dict_from_list(list_of_values: list[int]) -> dict:
 
 
 def top_10(list_of_values: list[int]) -> dict:
-    return dict(sorted(dict_from_list(list_of_values).items(), key=lambda x: x[1])[-10:])
+    return dict(sorted(dict_from_list(list_of_values).items(), key=lambda x: -x[1])[:10])
 
 
 def counter_dict_from_list(list_of_values: list[int]):

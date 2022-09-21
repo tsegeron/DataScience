@@ -24,4 +24,4 @@ if __name__ == '__main__':
         except Exception:
             print('Incorrect arguments are provided')
     else:
-        print('2 arguments are needed!')
+        print('3 arguments are needed!')
