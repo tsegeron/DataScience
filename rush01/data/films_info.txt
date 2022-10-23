@@ -1,0 +1,429 @@
+0114709, John Lasseter, $30,000,000 (estimated), $394,436,586, 1 hour 21 minutes
+0113497, Joe Johnston, $65,000,000 (estimated), $262,821,940, 1 hour 44 minutes
+0113228, Howard Deutch, $25,000,000 (estimated), $71,518,503, 1 hour 41 minutes
+0114885, Forest Whitaker, $16,000,000 (estimated), $81,452,156, 2 hours 4 minutes
+0113041, Charles Shyer, $30,000,000 (estimated), $76,594,107, 1 hour 46 minutes
+0113277, Michael Mann, $60,000,000 (estimated), $187,436,818, 2 hours 50 minutes
+0114319, Sydney Pollack, $58,000,000 (estimated), $53,672,080, 2 hours 7 minutes
+0112302, Peter Hewitt, $23,920,048, $23,920,048, 1 hour 37 minutes
+0114576, Peter Hyams, $35,000,000 (estimated), $64,350,171, 1 hour 51 minutes
+0113189, Martin Campbell, $60,000,000 (estimated), $352,194,034, 2 hours 10 minutes
+0112346, Rob Reiner, $62,000,000 (estimated), $107,879,496, 1 hour 54 minutes
+0112896, Mel Brooks, $30,000,000 (estimated), $10,772,144, 1 hour 28 minutes
+0112453, Simon Wells, $11,348,324, $11,349,090, 1 hour 18 minutes
+0113987, Oliver Stone, $44,000,000 (estimated), $13,681,765, 3 hours 12 minutes
+0112760, Renny Harlin, $98,000,000 (estimated), $10,017,322, 2 hours 4 minutes
+0112641, Martin Scorsese, $52,000,000 (estimated), $116,112,375, 2 hours 58 minutes
+0114388, Ang Lee, $16,000,000 (estimated), $134,582,776, 2 hours 16 minutes
+0113101, Allison Anders, $4,000,000 (estimated), $4,257,354, 1 hour 38 minutes
+0112281, Steve Oedekerk, $30,000,000 (estimated), $212,385,533, 1 hour 30 minutes
+0113845, Joseph Ruben, $68,000,000 (estimated), $35,431,113, 1 hour 50 minutes
+0113161, Barry Sonnenfeld, $30,250,000 (estimated), $115,101,622, 1 hour 45 minutes
+0112722, Jon Amiel, $20,000,000 (estimated), $32,051,917, 2 hours 3 minutes
+0112401, Richard Donner, $50,000,000 (estimated), $30,303,072, 2 hours 13 minutes
+0114168, Victor Salva, $9,500,000 (estimated), $30,862,156, 1 hour 51 minutes
+0113627, Mike Figgis, $3,600,000 (estimated), $32,029,928, 1 hour 51 minutes
+0114057, Oliver Parker, $11,000,000 (estimated), $2,844,379, 2 hours 3 minutes
+0114011, Lesli Linka Glatter, $27,112,329, $37,591,674, 1 hour 40 minutes
+0112682, Marc Caro, $18,000,000 (estimated), $1,781,465, 1 hour 52 minutes
+0115012, Yimou Zhang, $2,086,101, $2,086,101, 1 hour 48 minutes
+0112792, John N. Smith, $23,000,000 (estimated), $179,519,401, 1 hour 39 minutes
+0114746, Terry Gilliam, $29,000,000 (estimated), $168,839,459, 2 hours 9 minutes
+0112431, Chris Noonan, $30,000,000 (estimated), $254,134,910, 1 hour 31 minutes
+0112818, Tim Robbins, $11,000,000 (estimated), $39,363,635, 2 hours 2 minutes
+0113442, Andy Tennant, $19,474,589, $19,474,589, 1 hour 41 minutes
+0112697, Amy Heckerling, $12,000,000 (estimated), $56,631,572, 1 hour 37 minutes
+0112749, Darrell Roodt, $670,727, $670,727, 1 hour 46 minutes
+0114279, Richard Loncraine, £6,000,000 (estimated), $2,748,518, 1 hour 50 minutes
+0112819, Albert Hughes, $10,000,000 (estimated), $24,147,179, 1 hour 59 minutes
+0114272, Michael Hoffman, $19,000,000 (estimated), $4,005,941, 1 hour 57 minutes
+0113855, Paul W.S. Anderson, $18,000,000 (estimated), $122,195,920, 1 hour 41 minutes
+0114681, Gus Van Sant, $20,000,000 (estimated), $21,284,514, 1 hour 46 minutes
+0113347, Jocelyn Moorhouse, $10,000,000 (estimated), $41,200,020, 1 hour 57 minutes
+0114369, David Fincher, $33,000,000 (estimated), $327,333,559, 2 hours 7 minutes
+0114148, Mike Gabriel, $55,000,000 (estimated), $346,079,773, 1 hour 21 minutes
+0114916, Patricia Rozema, $919,671, $919,671, 1 hour 34 minutes
+0114814, Bryan Singer, $6,000,000 (estimated), $23,341,568, 1 hour 46 minutes
+0113819, Woody Allen, $15,000,000 (estimated), $6,468,498, 1 hour 35 minutes
+0110299, Gianni Amelio, $438,483, $4,788,331, 1 hour 56 minutes
+0112499, Holly Goldberg Sloan, $12,000,000 (estimated), $17,736,619, 1 hour 40 minutes
+0113158, Ulu Grosbard, $1,110,104, $1,110,104, 1 hour 55 minutes
+0113321, Jodie Foster, $20,000,000 (estimated), $17,519,169, 1 hour 43 minutes
+0110877, Michael Radford, $3,000,000 (estimated), $21,898,920, 1 hour 48 minutes
+0113419, Frank Oz, $45,000,000 (estimated), $35,656,131, 1 hour 36 minutes
+0116260, John Schlesinger, $20,000,000 (estimated), $26,877,589, 1 hour 41 minutes
+0113862, Stephen Herek, $23,000,000 (estimated), $106,269,971, 2 hours 23 minutes
+0116126, Paris Barclay, $3,800,000 (estimated), $20,949,601, 1 hour 29 minutes
+0118002, Bill Bennett, $10,658,278, $10,658,278, 1 hour 36 minutes
+0115683, Jason Bloom, $15,000,000 (estimated), $13,427,615, 1 hour 28 minutes
+0116839, Farhad Mann, $15,000,000 (estimated), $2,409,225, 1 hour 33 minutes
+0113149, Josiane Balasko, $1,026,646, $1,026,646, 1 hour 44 minutes
+0113118, F. Gary Gray, $3,500,000 (estimated), $28,215,918, 1 hour 31 minutes
+0116367, Robert Rodriguez, $19,000,000 (estimated), $25,837,111, 1 hour 48 minutes
+0113010, Andrew Sipes, $50,000,000 (estimated), $11,534,477, 1 hour 31 minutes
+0113537, Noah Baumbach, $718,490, $718,490, 1 hour 36 minutes
+0113828, Claude Lelouch, $740,048, $740,048, 2 hours 55 minutes
+0115644, Michael Goldenberg, $19,030,691, $27,315,527, 1 hour 27 minutes
+0115676, Steve Miner, $15,000,000 (estimated), $2,042,530, 1 hour 30 minutes
+0114367, Christian Duguay, $20,000,000 (estimated), $5,711,695, 1 hour 48 minutes
+0113973, Susanne Ofteringer, $306,691, $306,691, 1 hour 10 minutes
+0112744, Sean Penn, $9,000,000 (estimated), $868,979, 1 hour 51 minutes
+0116731, Brian Gibson, $44,000,000 (estimated), $22,754,725, 1 hour 58 minutes
+0112445, Jafar Panahi, $150,000 (estimated), $924,940, 1 hour 25 minutes
+0114660, Gary Fleder, $7,000,000 (estimated), $529,766, 1 hour 55 minutes
+0112379, Marleen Gorris, £1,500,000 (estimated), $4,249,321, 1 hour 42 minutes
+0114039, Tim Reid, $2,291,255, $2,291,255, 1 hour 55 minutes
+0112365, Philip Haas, $4,997,987 (estimated), $3,414,301, 1 hour 56 minutes
+0118158, Ridley Scott, $38,000,000 (estimated), $10,292,300, 2 hours 9 minutes
+0116151, Ken Kwapis, $9,871,065, $9,871,065, 1 hour 28 minutes
+0115697, Penelope Spheeris, $32,417,995, $32,417,995, 1 hour 27 minutes
+0113972, John Badham, $33,000,000 (estimated), $8,175,346, 1 hour 30 minutes
+0117002, Stephen Frears, $47,000,000 (estimated), $12,379,402, 1 hour 48 minutes
+0114825, Wes Craven, $20,000,000 (estimated), $19,751,736, 1 hour 40 minutes
+0115639, Ted Demme, $10,597,759, $10,597,759, 1 hour 52 minutes
+0115759, John Woo, $50,000,000 (estimated), $150,270,147, 1 hour 48 minutes
+0113403, Kenneth Branagh, $469,571, $469,571, 1 hour 39 minutes
+0113247, Mathieu Kassovitz, €2,590,000 (estimated), $412,914, 1 hour 38 minutes
+0113283, Nick Broomfield, $34,402, $34,402, 1 hour 46 minutes
+0115907, Harold Becker, $40,000,000 (estimated), $20,340,204, 1 hour 51 minutes
+0115734, Wes Anderson, $7,000,000 (estimated), $560,069, 1 hour 31 minutes
+0117102, Nick Castle, $12,825,141, $12,825,141, 1 hour 36 minutes
+0118040, John Dahl, $18,000,000 (estimated), $2,821,671, 1 hour 57 minutes
+0116483, Dennis Dugan, $12,000,000 (estimated), $41,205,099, 1 hour 32 minutes
+0112579, Clint Eastwood, $24,000,000 (estimated), $182,016,617, 2 hours 15 minutes
+0117110, Brian Henson, $34,327,391, $34,327,391, 1 hour 39 minutes
+0112646, Robert Leacock, $28,672, $28,672, 1 hour 35 minutes
+0112573, Mel Gibson, $72,000,000 (estimated), $213,216,216, 2 hours 58 minutes
+0075314, Martin Scorsese, $1,300,000 (estimated), $28,570,902, 1 hour 54 minutes
+0113326, Stanley Tong, $7,500,000 (estimated), $32,392,047, 1 hour 44 minutes
+0115645, Barbet Schroeder, $35,000,000 (estimated), $8,797,839, 1 hour 48 minutes
+0112373, Jon Blair, $1,310,200, $1,310,200, 1 hour 57 minutes
+0115033, Benjamin Ross, $536,825, $536,825, 1 hour 39 minutes
+0116606, Eric Schaeffer, $5,000,000 (estimated), $2,420,162, 1 hour 32 minutes
+0114536, Andrew Davis, $35,000,000 (estimated), $3,150,170, 2 hours 15 minutes
+0106473, John N. Smith, $204,540, 1 hour 33 minutes
+0103859, Reginald Hudlin, $42,000,000 (estimated), $131,052,444, 1 hour 57 minutes
+0109424, Kar-Wai Wong, $600,200, $1,500,226, 1 hour 42 minutes
+0116324, David O. Russell, $7,000,000 (estimated), $14,702,438, 1 hour 32 minutes
+0110647, Peter MacDonald, $17,000,000 (estimated), 1 hour 35 minutes
+0110217, Michel Negroponte, $10,622, $10,622, 1 hour 27 minutes
+0113451, William Friedkin, $50,000,000 (estimated), $9,851,610, 1 hour 35 minutes
+0116130, David S. Ward, $31,000,000 (estimated), $37,553,752, 1 hour 32 minutes
+0113756, Dirk Shafer, $209,935, $209,935, 1 hour 26 minutes
+0118055, Jon Avnet, $60,000,000 (estimated), $100,688,705, 2 hours 4 minutes
+0115685, Mike Nichols, $31,000,000 (estimated), $185,260,553, 1 hour 57 minutes
+0112585, Edward Burns, $238,000 (estimated), $10,426,506, 1 hour 38 minutes
+0112442, Michael Bay, $19,000,000 (estimated), $141,407,024, 1 hour 59 minutes
+0112342, Christopher Cain, $7,506,759, $7,506,759, 1 hour 24 minutes
+0112461, Scott Kalvert, $2,000,000 (estimated), $2,402,438, 1 hour 42 minutes
+0112427, Mike Newell, $4,000,000 (estimated), $259,724, 1 hour 52 minutes
+0109093, Hal Hartley, $2,300,000 (estimated), $757,088, 1 hour 45 minutes
+0112384, Ron Howard, $52,000,000 (estimated), $355,237,933, 2 hours 20 minutes
+0114287, Michael Caton-Jones, $28,000,000 (estimated), $31,596,911, 2 hours 19 minutes
+0112288, Abel Ferrara, $307,308, $307,308, 1 hour 22 minutes
+0112462, Joel Schumacher, $100,000,000 (estimated), $336,567,158, 2 hours 1 minute
+0061395, Luis Buñuel, $4,063,348, $4,162,021, 1 hour 40 minutes
+0112495, John Boorman, $23,000,000 (estimated), $5,750,110, 1 hour 40 minutes
+0112541, Paul Auster, $2,000,000 (estimated), $1,268,636, 1 hour 23 minutes
+0109370, Michael Moore, $11,000,000 (estimated), $163,971, 1 hour 31 minutes
+0112642, Brad Silberling, $55,000,000 (estimated), $287,928,194, 1 hour 40 minutes
+0112688, Spike Lee, $25,000,000 (estimated), $13,071,518, 2 hours 8 minutes
+0112715, Frank Marshall, $50,000,000 (estimated), $152,022,101, 1 hour 49 minutes
+0112740, Tony Scott, $53,000,000 (estimated), $157,387,195, 1 hour 56 minutes
+0109508, Terry Zwigoff, $3,041,083, $3,041,083, 1 hour 59 minutes
+0112851, Robert Rodriguez, $7,000,000 (estimated), $25,405,445, 1 hour 44 minutes
+0112857, Carl Franklin, $27,000,000 (estimated), $16,140,822, 1 hour 42 minutes
+0112864, John McTiernan, $90,000,000 (estimated), $366,101,666, 2 hours 8 minutes
+0112887, Gregg Araki, $284,785, $284,785, 1 hour 23 minutes
+0113071, Jerry Zucker, $55,000,000 (estimated), $127,600,435, 2 hours 14 minutes
+0113114, Dwight H. Little, $30,077,111, $30,077,111, 1 hour 35 minutes
+0113243, Iain Softley, $20,000,000 (estimated), $7,563,728, 1 hour 45 minutes
+0113464, Christopher Ashley, $3,487,767, $3,487,767, 1 hour 32 minutes
+0113481, Robert Longo, $26,000,000 (estimated), $19,075,720, 1 hour 43 minutes
+0113492, Danny Cannon, $90,000,000 (estimated), $113,493,481, 1 hour 36 minutes
+0113500, John Fortenberry, $17,014,653, $17,014,653, 1 hour 28 minutes
+0113540, Larry Clark, $1,500,000 (estimated), $7,412,216, 1 hour 31 minutes
+0113677, Tom DiCillo, $500,000 (estimated), $1,111,790, 1 hour 30 minutes
+0113690, Clive Barker, $12,000,000 (estimated), $13,294,422, 1 hour 49 minutes
+0107447, Denys Arcand, $542,985, $542,985, 1 hour 40 minutes
+0113729, Antonia Bird, $15,453,274, $15,453,274, 1 hour 33 minutes
+0113749, Kevin Smith, $8,000,000 (estimated), $2,122,561, 1 hour 34 minutes
+0113820, Bryan Spicer, $20,000,000 (estimated), $66,433,194, 1 hour 35 minutes
+0110604, Anthony Waller, $2,000,000 (estimated), $1,125,910, 1 hour 35 minutes
+0110620, Michael Almereyda, $1,000,000 (estimated), $443,169, 1 hour 33 minutes
+0113957, Irwin Winkler, $22,000,000 (estimated), $110,627,965, 1 hour 54 minutes
+0113986, Chris Columbus, $69,684,532, $138,510,230, 1 hour 43 minutes
+0114095, Daisy von Scherler Mayer, $150,000 (estimated), $472,370, 1 hour 34 minutes
+0114194, Gregory Widen, $8,000,000 (estimated), $16,115,878, 1 hour 38 minutes
+0114241, Norman René, $103,351, 1 hour 31 minutes
+0114323, Todd Haynes, $1,000,000 (estimated), $512,245, 1 hour 59 minutes
+0114345, Roland Joffé, $46,000,000 (estimated), $10,382,407, 2 hours 15 minutes
+0114436, Paul Verhoeven, $45,000,000 (estimated), $20,358,624, 2 hours 8 minutes
+0114478, Wayne Wang, $7,000,000 (estimated), $8,367,636, 1 hour 52 minutes
+0114496, Lasse Hallström, $50,865,589, $50,865,589, 1 hour 46 minutes
+0114508, Roger Donaldson, $35,000,000 (estimated), $113,374,103, 1 hour 48 minutes
+0114558, Kathryn Bigelow, $42,000,000 (estimated), $7,959,291, 2 hours 25 minutes
+0058450, Jacques Demy, $28,030, $108,191, 1 hour 31 minutes
+0114663, Martha Coolidge, $10,000,000 (estimated), $7,027,517, 1 hour 55 minutes
+0114702, Agnieszka Holland, $8,000,000 (estimated), $340,139, 1 hour 51 minutes
+0114682, Beeban Kidron, $36,474,193, $47,774,193, 1 hour 49 minutes
+0114781, Geoff Murphy, $60,000,000 (estimated), $104,324,083, 1 hour 40 minutes
+0114798, Diane Keaton, $7,929,434, $7,929,434, 1 hour 33 minutes
+0114805, Douglas Keeve, $2,875,086, $2,875,086, 1 hour 13 minutes
+0114887, Alfonso Arau, $20,000,000 (estimated), $50,008,143, 1 hour 42 minutes
+0114898, Kevin Reynolds, $175,000,000 (estimated), $264,218,220, 2 hours 15 minutes
+0114928, Desmond Nakano, $7,000,000 (estimated), $3,734,870, 1 hour 29 minutes
+0114938, Walter Hill, $30,000,000 (estimated), $2,193,982, 1 hour 38 minutes
+0109340, Mike Figgis, $487,391, $487,391, 1 hour 37 minutes
+0112602, Greg Beeman, $7,919,823, $7,919,823, 1 hour 30 minutes
+0111579, Nikita Mikhalkov, $2,800,000 (estimated), $2,313,461, 2 hours 15 minutes
+0110882, Milcho Manchevski, $1,900,000 (estimated), $763,847, 1 hour 53 minutes
+0112471, Richard Linklater, $2,500,000 (estimated), $5,987,386, 1 hour 41 minutes
+0112508, Tamra Davis, $10,000,000 (estimated), $26,488,734, 1 hour 29 minutes
+0112438, Guy Ferland, $2,000,000 (estimated), 1 hour 30 minutes
+0112571, Herbert Ross, $21,000,000 (estimated), $23,440,188, 1 hour 55 minutes
+0112757, Peter Horton, $2,568,425, $2,568,425, 1 hour 37 minutes
+0112679, Pat O'Connor, $23,389,975, $23,389,975, 1 hour 43 minutes
+0109445, Kevin Smith, $27,000 (estimated), $3,151,130, 1 hour 32 minutes
+0112883, Jeremy Leven, $25,000,000 (estimated), $68,792,531, 1 hour 37 minutes
+0109635, Barry Levinson, $55,000,000 (estimated), $214,015,089, 2 hours 8 minutes
+0109676, John Badham, $45,000,000 (estimated), $28,735,315, 1 hour 41 minutes
+0112854, Jack Baran, $1,176,982, $1,176,982, 1 hour 42 minutes
+0109579, Roman Polanski, $12,000,000 (estimated), $3,103,716, 1 hour 43 minutes
+0109642, Taylor Hackford, $24,361,867, $24,361,867, 2 hours 12 minutes
+0109686, Peter Farrelly, $17,000,000 (estimated), $247,290,327, 1 hour 47 minutes
+0111797, Ang Lee, $7,294,403, $7,294,403, 2 hours 4 minutes
+0109759, Atom Egoyan, CA$2,000,000 (estimated), $4,221,036, 1 hour 43 minutes
+0109758, Garry Marshall, $25,000,000 (estimated), $6,841,570, 1 hour 53 minutes
+0109707, Tim Burton, $18,000,000 (estimated), $5,887,725, 2 hours 7 minutes
+0113117, Lawrence Kasdan, $38,896,854, $101,982,854, 1 hour 51 minutes
+0113097, Billy Crystal, $33,177,694, $33,177,694, 1 hour 41 minutes
+0113028, Phillip Borsos, $11,642,946, $11,642,946, 1 hour 21 minutes
+0113198, Kevin Lima, $18,000,000 (estimated), $35,348,597, 1 hour 18 minutes
+0113303, Brett Leonard, $15,000,000 (estimated), $12,201,255, 1 hour 46 minutes
+0113089, Carlo Carlei, $15,000,000 (estimated), $3,987,768, 1 hour 36 minutes
+0109771, Gérard Corbiau, $1,573,411, $1,600,226, 1 hour 51 minutes
+0113199, Mark Lewis, $3,941,146, $3,941,146, 1 hour 30 minutes
+0110057, Steve James, $700,000 (estimated), $11,830,611, 2 hours 50 minutes
+0110005, Peter Jackson, $5,000,000 (estimated), $3,049,135, 1 hour 39 minutes
+0110066, Randall Miller, $10,500,000 (estimated), $26,325,256, 1 hour 53 minutes
+0110116, Bernard Rose, $9,914,409, $9,914,409, 2 hours 1 minute
+0110006, Steven Brill, $17,689,177, $17,689,177, 1 hour 40 minutes
+0113360, J.F. Lawton, $20,000,000 (estimated), $6,609,661, 1 hour 51 minutes
+0110099, Fred Schepisi, $25,000,000 (estimated), $26,381,221, 1 hour 40 minutes
+0110148, Neil Jordan, $60,000,000 (estimated), $223,664,608, 2 hours 3 minutes
+0113463, James Ivory, $14,000,000 (estimated), $2,473,668, 2 hours 19 minutes
+0110189, James Melkonian, $7,000,000 (estimated), $7,557,877, 1 hour 22 minutes
+0110216, Ivan Reitman, $60,000,000 (estimated), $108,431,355, 1 hour 49 minutes
+0113501, Arne Glimcher, $36,853,222, $36,853,222, 1 hour 42 minutes
+0113538, Michael Gottlieb, $15,000,000 (estimated), $13,406,717, 1 hour 29 minutes
+0113552, Barbet Schroeder, $40,000,000 (estimated), $14,942,422, 1 hour 41 minutes
+0076759, George Lucas, $11,000,000 (estimated), $775,398,007, 2 hours 1 minute
+0110367, Gillian Armstrong, $18,000,000 (estimated), $50,083,616, 1 hour 55 minutes
+0113670, Alfonso Cuarón, $17,000,000 (estimated), $10,015,449, 1 hour 37 minutes
+0110296, Ken Loach, $38,976,598 (estimated), $152,457, 1 hour 41 minutes
+0103994, Alfonso Arau, $2,000,000 (estimated), $21,744,201, 1 hour 45 minutes
+0110322, Edward Zwick, $30,000,000 (estimated), $160,638,883, 2 hours 13 minutes
+0110443, Nick Castle, $29,412,050, $30,112,050, 1 hour 35 minutes
+0107566, Allison Anders, $3,267,313, $3,267,313, 1 hour 32 minutes
+0110391, Glenn Gordon Caron, $60,000,000 (estimated), $18,272,894, 1 hour 48 minutes
+0113691, Stephen Gyllenhaal, $17,000,000 (estimated), $7,603,766, 1 hour 51 minutes
+0110428, Nicholas Hytner, $65,897,768 (estimated), $15,238,689, 1 hour 50 minutes
+0109836, Kenneth Branagh, $45,000,000 (estimated), $112,006,296, 2 hours 3 minutes
+0113755, James Orr, $40,070,995, $40,070,995, 1 hour 36 minutes
+0110538, Nora Ephron, $15,000,000 (estimated), $6,821,850, 1 hour 37 minutes
+0110516, Richard Benjamin, $18,137,661, $18,137,661, 1 hour 50 minutes
+0110527, Les Mayfield, $17,320,136, $46,264,384, 1 hour 54 minutes
+0113808, David Frankel, $5,221,281, $5,221,281, 1 hour 35 minutes
+0113896, Gregory Nava, $5,500,000 (estimated), $11,079,373, 2 hours 8 minutes
+0113870, Marc Rocco, $17,381,942, $17,381,942, 2 hours 2 minutes
+0110684, Robert Benton, $20,000,000 (estimated), $39,491,975, 1 hour 50 minutes
+0110638, Michael Apted, $24,500,000 (estimated), $106,683,817, 1 hour 52 minutes
+0113967, Nick Gomez, $5,000,000 (estimated), $3,565,508, 1 hour 38 minutes
+0106402, Vadim Jean, £3,000,000 (estimated), 1 hour 29 minutes
+0110671, Alan Jacobs, $189,509, 1 hour 38 minutes
+0110632, Oliver Stone, $34,000,000 (estimated), $50,283,563, 1 hour 59 minutes
+0110737, Norman Jewison, $20,059,210, $20,059,210, 1 hour 49 minutes
+0110729, Lee Tamahori, $1,608,570, $1,608,570, 1 hour 42 minutes
+0114069, Wolfgang Petersen, $50,000,000 (estimated), $189,859,560, 2 hours 7 minutes
+0110413, Luc Besson, FRF 115,000,000 (estimated), $19,552,639, 1 hour 50 minutes
+0114113, Mira Nair, $11,000,000 (estimated), $2,832,826, 1 hour 53 minutes
+0114210, Joshua Brand, $345,972, $345,972, 1 hour 34 minutes
+0110912, Quentin Tarantino, $8,000,000 (estimated), $213,928,762, 2 hours 34 minutes
+0105652, Ang Lee, $400,000 (estimated), $152,322, 1 hour 45 minutes
+0110889, Antonia Bird, $4,165,845, $4,165,845, 1 hour 45 minutes
+0110932, Robert Redford, $31,000,000 (estimated), $24,822,619, 2 hours 13 minutes
+0114129, Kayo Hatta, $1,238,905, $1,238,905, 1 hour 34 minutes
+0110963, Patrice Chéreau, DEM 42,000,000 (estimated), $1,318,578, 2 hours 39 minutes
+0114214, Sam Raimi, $32,000,000 (estimated), $18,636,537, 1 hour 48 minutes
+0114296, Peter Yates, $22,000,000 (estimated), $12,096,881, 1 hour 48 minutes
+0110907, Robert Altman, $18,000,000 (estimated), $11,300,653, 2 hours 13 minutes
+0111495, Krzysztof Kieslowski, $3,581,969, $3,600,996, 1 hour 39 minutes
+0108394, Krzysztof Kieslowski, $1,324,974, $1,365,410, 1 hour 34 minutes
+0111507, Krzysztof Kieslowski, $1,237,219, $1,252,263, 1 hour 32 minutes
+0110965, George Mihalka, CA$2,500,000 (estimated), 1 hour 34 minutes
+0114571, Harold Ramis, $912,082, $912,082, 1 hour 35 minutes
+0111333, Richard Rich, $45,000,000 (estimated), $9,771,658, 1 hour 33 minutes
+0111112, John Sayles, $3,000,000 (estimated), $6,159,269, 1 hour 43 minutes
+0111255, Luis Llosa, $45,000,000 (estimated), $170,362,582, 1 hour 50 minutes
+0111282, Roland Emmerich, $55,000,000 (estimated), $196,567,262, 1 hour 56 minutes
+0111070, John Pasquin, $22,000,000 (estimated), $190,539,357, 1 hour 37 minutes
+0111161, Frank Darabont, $25,000,000 (estimated), $28,884,504, 2 hours 22 minutes
+0111149, Danny Boyle, $2,500,000 (estimated), $2,079,569, 1 hour 29 minutes
+0108260, Scott McGehee, $102,780, $102,780, 1 hour 36 minutes
+0106966, Tomás Gutiérrez Alea, $2,080,805, $2,087,569, 1 hour 48 minutes
+0114594, George Huang, $700,000 (estimated), $382,928, 1 hour 33 minutes
+0111309, Geoff Burton, A$3,465,000 (estimated), $766,464, 1 hour 40 minutes
+0113936, Kelly Makin, $4,686,937, $4,686,937, 1 hour 31 minutes
+0110081, Yimou Zhang, $2,332,728, $2,332,728, 2 hours 13 minutes
+0114614, Rachel Talalay, $25,000,000 (estimated), $4,064,495, 1 hour 44 minutes
+0114608, Ernest R. Dickerson, $13,000,000 (estimated), $21,089,146, 1 hour 32 minutes
+0111280, David Carson, $35,000,000 (estimated), $118,071,125, 1 hour 58 minutes
+0114609, Rusty Cundieff, $6,000,000 (estimated), $11,837,928, 1 hour 38 minutes
+0111454, Brian Gilbert, $538,534, $538,534, 2 hours 5 minutes
+0114852, John Carpenter, $22,000,000 (estimated), $9,418,365, 1 hour 38 minutes
+0114694, Peter Segal, $20,000,000 (estimated), $32,679,899, 1 hour 37 minutes
+0111590, Louis Malle, $1,746,050, $1,746,050, 1 hour 59 minutes
+0114788, Steven Soderbergh, $6,500,000 (estimated), $536,023, 1 hour 39 minutes
+0114888, Preston A. Whitmore II, $15,000,000 (estimated), $6,014,341, 1 hour 28 minutes
+0108550, Lasse Hallström, $11,000,000 (estimated), $10,032,765, 1 hour 58 minutes
+0114857, Brett Leonard, $30,000,000 (estimated), $24,047,675, 1 hour 46 minutes
+0114924, Jon Turteltaub, $17,000,000 (estimated), $182,057,016, 1 hour 43 minutes
+0111667, Jon Avnet, $16,928,556, $16,928,556, 2 hours 6 minutes
+0109655, Mina Shum, $759,393, $759,393, 1 hour 27 minutes
+0110598, P.J. Hogan, $9,000,000 (estimated), $15,485,598, 1 hour 46 minutes
+0112435, Melanie Mayron, $6,500,000 (estimated), $9,685,976, 1 hour 34 minutes
+0109040, Tom Shadyac, $15,000,000 (estimated), $107,217,396, 1 hour 26 minutes
+0109045, Stephan Elliott, $11,220,670, $11,265,710, 1 hour 44 minutes
+0106339, Iain Softley, $2,392,589, $2,392,589, 1 hour 40 minutes
+0104779, Roman Polanski, $5,000,000 (estimated), $1,862,805, 2 hours 19 minutes
+0109348, Woody Allen, $20,000,000 (estimated), $13,383,747, 1 hour 38 minutes
+0109444, Phillip Noyce, $62,000,000 (estimated), $215,887,717, 2 hours 21 minutes
+0109446, Joel Schumacher, $45,000,000 (estimated), $117,615,211, 1 hour 59 minutes
+0109484, Jessie Nelson, $20,164,171, $20,164,171, 1 hour 55 minutes
+0109504, Spike Lee, $14,000,000 (estimated), $13,642,861, 1 hour 55 minutes
+0109506, Alex Proyas, $23,000,000 (estimated), $50,694,671, 1 hour 42 minutes
+0109450, Ron Shelton, $1,007,583, $1,007,583, 2 hours 8 minutes
+0109813, Brian Levant, $46,000,000 (estimated), $341,631,208, 1 hour 31 minutes
+0109830, Robert Zemeckis, $55,000,000 (estimated), $678,226,465, 2 hours 22 minutes
+0109831, Mike Newell, $4,400,000 (estimated), $245,700,832, 1 hour 57 minutes
+0113305, John Singleton, $38,290,723, $38,290,723, 2 hours 8 minutes
+0110091, Darnell Martin, $1,760,527, $1,760,527, 1 hour 44 minutes
+0110093, Charles Shyer, $45,000,000 (estimated), $30,806,194, 2 hours 3 minutes
+0110167, Andrew Bergman, $20,000,000 (estimated), $37,939,757, 1 hour 41 minutes
+0110213, Stephen Sommers, $27,000,000 (estimated), $43,229,904, 1 hour 51 minutes
+0107472, Ray Müller, $449,707, $449,707, 3 hours 3 minutes
+0110357, Roger Allers, $45,000,000 (estimated), $1,063,611,805, 1 hour 28 minutes
+0107426, Bernardo Bertolucci, $35,000,000 (estimated), $4,858,139, 2 hours 3 minutes
+0111686, Wes Craven, $8,000,000 (estimated), $19,721,741, 1 hour 52 minutes
+0110475, Chuck Russell, $23,000,000 (estimated), $351,583,407, 1 hour 41 minutes
+0110478, Richard Donner, $75,000,000 (estimated), $183,031,272, 2 hours 7 minutes
+0110588, Alan Rudolph, $7,000,000 (estimated), $2,144,667, 2 hours 5 minutes
+0110622, Peter Segal, $30,000,000 (estimated), $51,132,598, 1 hour 23 minutes
+0110771, Ron Howard, $6,000,000 (estimated), $48,424,341, 1 hour 52 minutes
+0110950, Ben Stiller, $11,500,000 (estimated), $33,351,557, 1 hour 39 minutes
+0105226, John Dahl, $8,000,000 (estimated), $2,502,551, 1 hour 38 minutes
+0110989, Donald Petrie, $40,000,000 (estimated), $38,087,756, 1 hour 35 minutes
+0110997, Curtis Hanson, $45,000,000 (estimated), $94,216,343, 1 hour 51 minutes
+0111257, Jan de Bont, $30,000,000 (estimated), $350,448,145, 1 hour 56 minutes
+0111256, Ron Underwood, $38,000,000 (estimated), $20,667,959, 1 hour 39 minutes
+0111438, Peter Hyams, $27,000,000 (estimated), $101,646,581, 1 hour 39 minutes
+0111503, James Cameron, $115,000,000 (estimated), $378,882,411, 2 hours 21 minutes
+0111693, Luis Mandoki, $50,021,959, $50,021,959, 2 hours 6 minutes
+0111742, Mike Nichols, $70,000,000 (estimated), $131,002,597, 2 hours 5 minutes
+0111756, Lawrence Kasdan, $63,000,000 (estimated), $25,052,000, 3 hours 11 minutes
+0112443, Damian Harris, $15,000,000 (estimated), $3,674,841, 1 hour 48 minutes
+0110455, Suri Krishnamma, $920,916, $920,916, 1 hour 39 minutes
+0111048, Jefery Levy, $63,513, $63,513, 1 hour 36 minutes
+0110399, Keenen Ivory Wayans, $10,000,000 (estimated), $29,392,418, 1 hour 48 minutes
+0112570, Robert Lee King, $625,423, 1 hour 31 minutes
+0109454, Yves Angelo, $464,284, $464,284, 1 hour 50 minutes
+0059170, Russ Meyer, $45,000 (estimated), 1 hour 23 minutes
+0110186, Doug McHenry, $7,000,000 (estimated), $20,851,521, 1 hour 59 minutes
+0111301, Steven E. de Souza, $35,000,000 (estimated), $99,431,786, 1 hour 42 minutes
+0110027, Andrew Morahan, $26,000,000 (estimated), $12,303,080, 1 hour 39 minutes
+0109785, Michael Corrente, $80,000 (estimated), $514,775, 1 hour 37 minutes
+0113409, John Carpenter, $8,000,000 (estimated), $8,924,549, 1 hour 35 minutes
+0109021, John G. Avildsen, $7,000,000 (estimated), $19,623,396, 1 hour 45 minutes
+0109035, Jeff Pollack, $3,500,000 (estimated), $16,192,320, 1 hour 36 minutes
+0106220, Barry Sonnenfeld, $47,000,000 (estimated), $48,919,043, 1 hour 34 minutes
+0106226, Martin Scorsese, $34,000,000 (estimated), $32,255,440, 2 hours 19 minutes
+0109068, Michael Lehmann, $5,751,882, $5,751,882, 1 hour 32 minutes
+0109067, Paul Michael Glaser, $17,080,000 (estimated), $21,011,318, 1 hour 47 minutes
+0106292, John Badham, $20,208,496, $20,208,496, 1 hour 48 minutes
+0109198, Jonathan Kaplan, $25,000,000 (estimated), $15,240,435, 1 hour 39 minutes
+0109219, Whit Stillman, $3,200,000 (estimated), $7,266,973, 1 hour 41 minutes
+0106379, Bill Forsyth, $40,000,000 (estimated), $1,519,366, 2 hours 2 minutes
+0106400, Penelope Spheeris, $25,000,000 (estimated), $57,405,220, 1 hour 32 minutes
+0109254, John Landis, $50,000,000 (estimated), $119,208,989, 1 hour 44 minutes
+0109279, Caroline Thompson, $4,630,377, $4,630,377, 1 hour 28 minutes
+0109297, Michael Apted, $11,000,000 (estimated), $16,696,219, 1 hour 46 minutes
+0109303, Stephen Hopkins, $28,000,000 (estimated), $30,156,002, 2 hours 1 minute
+0109305, William Friedkin, $23,070,663, $23,070,663, 1 hour 48 minutes
+0109306, Tony Richardson, $16,000,000 (estimated), $3,359,465, 1 hour 41 minutes
+0106452, Abel Ferrara, $13,000,000 (estimated), $428,868, 1 hour 27 minutes
+0106471, Jennifer Lynch, $1,796,389, $1,796,389, 1 hour 47 minutes
+0106489, Robert De Niro, $22,000,000 (estimated), $17,287,898, 2 hours 1 minute
+0109361, Adam Resnick, $9,000,000 (estimated), $3,662,459, 1 hour 20 minutes
+0106505, John Whitesell, $13,000,000 (estimated), $2,570,550, 1 hour 30 minutes
+0106519, Brian De Palma, $30,000,000 (estimated), $63,848,322, 2 hours 24 minutes
+0109439, Paul Weiland, $40,000,000 (estimated), $43,622,150, 1 hour 56 minutes
+0109443, Mick Jackson, $18,000,000 (estimated), $7,355,425, 1 hour 47 minutes
+0106582, Renny Harlin, $70,000,000 (estimated), $255,000,211, 1 hour 53 minutes
+0106598, Steve Barron, $30,000,000 (estimated), $21,274,717, 1 hour 28 minutes
+0109456, Richard Rush, $40,000,000 (estimated), $19,726,050, 2 hours 1 minute
+0109480, Michael Ritchie, $11,391,093, $11,391,093, 1 hour 33 minutes
+0109493, Gregg Champion, $35,000,000 (estimated), $20,280,016, 1 hour 42 minutes
+0106673, Ivan Reitman, $28,000,000 (estimated), $63,270,710, 1 hour 50 minutes
+0106677, Richard Linklater, $6,900,000 (estimated), $7,993,039, 1 hour 43 minutes
+0106697, Marco Brambilla, $57,000,000 (estimated), $58,055,768, 1 hour 55 minutes
+0106834, Gus Van Sant, $8,000,000 (estimated), $1,708,873, 1 hour 46 minutes
+0106873, Carl Reiner, $7,839,327, $7,839,327, 1 hour 31 minutes
+0106332, Kaige Chen, $4,000,000 (estimated), $6,122,607, 2 hours 51 minutes
+0106881, Peter Weir, $6,995,302, $6,995,302, 2 hours 2 minutes
+0106880, Rusty Cundieff, $999,999 (estimated), $233,824, 1 hour 28 minutes
+0111732, Alek Keshishian, $20,016,254, $20,016,254, 1 hour 41 minutes
+0106926, Steve Kloves, $9,709,451, $9,709,451, 2 hours 6 minutes
+0111712, John Irvin, $6,243,722, $6,243,722, 1 hour 41 minutes
+0106941, Barry Sonnenfeld, $30,000,000 (estimated), $11,146,270, 1 hour 36 minutes
+0106918, Sydney Pollack, $42,000,000 (estimated), $270,248,367, 2 hours 34 minutes
+0106965, Simon Wincer, $20,000,000 (estimated), $153,709,806, 1 hour 52 minutes
+0109842, Boaz Yakin, $3,500,000 (estimated), $8,094,616, 1 hour 54 minutes
+0106977, Andrew Davis, $44,000,000 (estimated), $368,875,760, 2 hours 10 minutes
+0107004, Walter Hill, $35,000,000 (estimated), $18,635,620, 1 hour 55 minutes
+0109890, Roger Donaldson, $16,094,974, $30,057,974, 1 hour 55 minutes
+0109891, Howard Deutch, $30,000,000 (estimated), $18,869,594, 1 hour 49 minutes
+0109913, Rose Troche, $15,000 (estimated), $2,405,285, 1 hour 23 minutes
+0107076, John Woo, $18,000,000 (estimated), $74,189,677, 1 hour 37 minutes
+0107144, Jim Abrahams, $25,000,000 (estimated), $133,752,825, 1 hour 26 minutes
+0113674, Julianna Lavin, $23,808, $23,808, 1 hour 35 minutes
+0112966, Christopher Monger, $40,997,769 (estimated), $10,904,930, 1 hour 39 minutes
+0107151, Bille August, $40,000,000 (estimated), $6,265,311, 2 hours 25 minutes
+0110064, Eric Meza, $19,281,235, $19,281,235, 1 hour 40 minutes
+0110074, Joel Coen, $40,000,000 (estimated), $2,816,518, 1 hour 51 minutes
+0110097, James L. Brooks, $40,000,000 (estimated), $10,424,645, 1 hour 55 minutes
+0110123, Daniel Petrie Jr., $28,881,266, $28,881,266, 1 hour 31 minutes
+0107206, Wolfgang Petersen, $40,000,000 (estimated), $176,997,168, 2 hours 8 minutes
+0107207, Jim Sheridan, $13,000,000 (estimated), $65,796,862, 2 hours 13 minutes
+0110137, Matty Rich, $8,000,000 (estimated), $8,880,705, 1 hour 50 minutes
+0108551, Brian Gibson, $15,000,000 (estimated), $39,100,956, 1 hour 58 minutes
+0110197, Barry Levinson, $30,000,000 (estimated), $3,783,003, 1 hour 52 minutes
+0107286, Stephen Hopkins, $21,000,000 (estimated), $12,526,677, 1 hour 50 minutes
+0107290, Steven Spielberg, $63,000,000 (estimated), $1,109,802,321, 2 hours 7 minutes
+0107302, Dominic Sena, $9,000,000 (estimated), $2,395,231, 1 hour 57 minutes
+0110265, Roger Avary, $1,500,000 (estimated), $418,961, 1 hour 36 minutes
+0110305, Daniel Petrie, $9,979,683, $9,979,683, 1 hour 34 minutes
+0107362, John McTiernan, $85,000,000 (estimated), $137,298,489, 2 hours 10 minutes
+0107413, James Lapine, $12,440,858, $12,440,858, 1 hour 31 minutes
+0110353, Simon Wincer, $16,821,273, $16,821,273, 1 hour 38 minutes
+0107468, David Cronenberg, $1,498,795, $1,498,795, 1 hour 41 minutes
+0107478, Richard Benjamin, $22,000,000 (estimated), $104,942,695, 1 hour 51 minutes
+0107497, Harold Becker, $20,000,000 (estimated), $46,405,336, 1 hour 47 minutes
+0107501, Mel Gibson, $24,760,338, $24,760,338, 1 hour 55 minutes
+0107507, Woody Allen, $13,500,000 (estimated), $11,330,911, 1 hour 44 minutes
+0107554, Albert Hughes, $3,500,000 (estimated), $27,912,072, 1 hour 37 minutes
+0116253, Stuart Baird, $55,000,000 (estimated), $121,969,216, 2 hours 13 minutes
+0111689, Tom Noonan, $120,000 (estimated), 1 hour 31 minutes
+0107616, Kenneth Branagh, $11,000,000 (estimated), $22,549,338, 1 hour 51 minutes
+0107613, Anthony Minghella, $13,000,000 (estimated), $3,125,424, 1 hour 38 minutes
+0107614, Chris Columbus, $25,000,000 (estimated), $441,286,195, 2 hours 5 minutes
