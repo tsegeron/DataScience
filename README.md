@@ -13,4 +13,10 @@ Each day has its own readme.md describing the tasks of that day and `en.subject.
 - [day05 – Pandas](day05/05_Pandas.md)
 - [day06 – SQL](day06/06_SQL.md)
 - [day07 – Data Visualization](day07/07_Data_Visualization.md)
-- 
+- [day08 – Machine Learning](day08/08_Machine_Learning.md)
+- [day09 – Machine Learning Advanced](day09/09_Machine_Learning_Advanced.md)
+- [rush00 – MovieLens Analytics](rush00/00_MovieLens_Analytics.md)
+- [rush01 – Food And Nutrition](rush01/01_Food_And_Nutrition.md)
+
+> `day0` – solo projects, `rush` – duo projects\
+> Each project is given 1.5 days to complete
