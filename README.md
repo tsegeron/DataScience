@@ -18,5 +18,5 @@ Each day has its own readme.md describing the tasks of that day and `en.subject.
 - [rush00 – MovieLens Analytics](rush00/00_MovieLens_Analytics.md)
 - [rush01 – Food And Nutrition](rush01/01_Food_And_Nutrition.md)
 
-> `day0` – solo projects, `rush` – duo projects\
+> `day0*` – solo projects, `rush0*` – duo projects\
 > Each project is given 1.5 days to complete
